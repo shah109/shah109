@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @shah109
-- 👀 I’m interested in creating web application with Javasript, HTML and CSS. Also interested in working in node.js and Python.
+- 👀 I’m interested in creating web application with Python, Javasript, HTML and CSS. Also interested in working in node.js.
+- I am also interested in creating AI applications with computer vision.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me at shah109@gmail.com
