@@ -3,4 +3,3 @@
 -  I’m currently learning Neural Networks and deep learning
 -  I’m looking to collaborate on everything AI-related
 -  You can reach me at shah109@gmail.com
-
